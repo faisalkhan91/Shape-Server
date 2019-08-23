@@ -1,6 +1,5 @@
 #!/usr/local/bin/python3
 
-
 #############################################################################################
 #                               Program by Mohammed Faisal Khan                             #
 #                               Email: faisalkhan91@outlook.com                             #
